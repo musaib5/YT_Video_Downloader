@@ -7,7 +7,7 @@ store it into a folder created by you.
 
 
 
-## Installation
+## Installation steps
 
 1. Install the dependencies using setup.py file by simply 
    running setup.py file in command line.
@@ -23,6 +23,7 @@ store it into a folder created by you.
 
     
 ## Screenshots
+
 ![for_readme](https://user-images.githubusercontent.com/43924834/194894989-6cc7b551-2d91-4e41-bf0a-2c5e097923dd.jpeg)
 
 
